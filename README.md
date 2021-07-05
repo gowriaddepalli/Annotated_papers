@@ -28,6 +28,7 @@ I will be starting this exercise of annotating papers/Videos to keep of with the
 - b) Hidden Technical Debt in Machine Learning Systems [https://papers.nips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf]
 - c) MLSys, Stanford Seminars: https://www.youtube.com/channel/UCzz6ructab1U44QPI3HpZEQ
 - d) https://recsysml.substack.com/p/the-brave-new-world-of-mlops
+- e) https://www.kdnuggets.com/2021/06/data-scientists-mars-software-developers-venus.html
 
 4. Search & Ranking, Information Retrieval and Recommendation Systems, Personalization:
 
