@@ -8,6 +8,9 @@ I will be starting this exercise of annotating papers/Videos to keep of with the
 - Contrastive Learning
 - Metric Learning
 - Multitask Learning
+   - a) https://medium.com/pinterest-engineering/multi-task-learning-for-related-products-recommendations-at-pinterest-62684f631c12
+   - b) https://medium.com/pinterest-engineering/how-we-use-automl-multi-task-learning-and-multi-tower-models-for-pinterest-ads-db966c3dc99e
+   - c) https://labs.pinterest.com/user/themes/pin_labs/assets/paper/pintext-kdd2019.pdf
 - Self-supervised learning
 - Weakly-supervised learning
 
