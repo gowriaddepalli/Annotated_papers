@@ -23,7 +23,8 @@ I will be starting this exercise of annotating papers/Videos to keep of with the
 
 3. Machine Learning systems/Machine Learning Operations:
 
-- a) Efficient Deep Learning: A Survey on Making Deep Learning Models Smaller, Faster, and Better [https://arxiv.org/abs/2106.08962]
+- a) Efficient Deep Learning: A Survey on Making Deep Learning Models Smaller, Faster, and Better [https://arxiv.org/abs/2106.08962] 
+      (Tutorial: https://www.kdnuggets.com/2021/06/efficiency-deep-learning-part1.html)
 - b) Hidden Technical Debt in Machine Learning Systems [https://papers.nips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf]
 - c) MLSys, Stanford Seminars: https://www.youtube.com/channel/UCzz6ructab1U44QPI3HpZEQ
 - d) https://recsysml.substack.com/p/the-brave-new-world-of-mlops
