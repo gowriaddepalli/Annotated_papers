@@ -4,20 +4,20 @@ I will be starting this exercise of annotating papers/Videos to keep of with the
 
 1. Deep Learning:
 
--> Embedding Representation
--> Contrastive Learning
--> Metric Learning
--> Multitask Learning
--> Self supervised learning
--> Weakly supervised learning
+- Embedding Representation
+- Contrastive Learning
+- Metric Learning
+- Multitask Learning
+- Self-supervised learning
+- Weakly-supervised learning
 
 2. Computer Vision:
 
--> Visual Search
--> Object detection and Segmentation
+- Visual Search
+- Object detection and Segmentation
 
 3. Machine Learning systems:
 
--> Machine Learning Operations
+- Machine Learning Operations
 
 4. Search & Ranking, Information Retrieval and Recommendation Systems, Personalization:
