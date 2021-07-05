@@ -20,4 +20,6 @@ I will be starting this exercise of annotating papers/Videos to keep of with the
 
 - Machine Learning Operations
 
+a) Efficient Deep Learning: A Survey on Making Deep Learning Models Smaller, Faster, and Better [https://arxiv.org/abs/2106.08962]
+
 4. Search & Ranking, Information Retrieval and Recommendation Systems, Personalization:
