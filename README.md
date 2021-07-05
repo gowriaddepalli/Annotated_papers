@@ -21,5 +21,6 @@ I will be starting this exercise of annotating papers/Videos to keep of with the
 - Machine Learning Operations
 
 a) Efficient Deep Learning: A Survey on Making Deep Learning Models Smaller, Faster, and Better [https://arxiv.org/abs/2106.08962]
+b) Hidden Technical Debt in Machine Learning Systems [https://papers.nips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf]
 
 4. Search & Ranking, Information Retrieval and Recommendation Systems, Personalization:
