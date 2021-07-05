@@ -22,3 +22,5 @@ I will be starting this exercise of annotating papers/Videos to keep of with the
 - b) Hidden Technical Debt in Machine Learning Systems [https://papers.nips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf]
 
 4. Search & Ranking, Information Retrieval and Recommendation Systems, Personalization:
+
+5. Mathematics of machine learning.
