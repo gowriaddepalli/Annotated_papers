@@ -20,7 +20,8 @@ I will be starting this exercise of annotating papers to keep of with the latest
 
 ## ML Systems:
 
-https://www.educative.io/courses/grokking-the-machine-learning-interview/g2RyzvN5Yqk
+- https://www.educative.io/courses/grokking-the-machine-learning-interview/g2RyzvN5Yqk
+- madewithml.com
 
 ## Object Detection
 
