@@ -1,16 +1,16 @@
 # Annotated_papers
 
-I will be starting this exercise of annotating papers/Videos to keep of with the latest industry research of Deep Learning, Computer Vision, and Machine Learning Systems, Search & Ranking, Information Retrieval and Recommendation Systems, Personalization:
+I will be starting this exercise of annotating papers to keep of with the latest industry research of Deep Learning, Computer Vision, and Machine Learning Systems, Search & Ranking, Information Retrieval and Recommendation Systems, Personalization:
 
 
 ## Pinterest:
 
 - Learning an unified embedding for visual search at pinterest.
-- complete the look: scene based complementary product recommendation.
-- bootstrapping complete the look at pinterest.
-- learning fashion compatibility across apparel categories for outfit recommendation.
-- billion scale pretraining with vision transformers for multitask visual representations.
-- shop the look: building a large scale visual shopping system at pinterest.
+- Complete the look: scene based complementary product recommendation.
+- Bootstrapping complete the look at pinterest.
+- Learning fashion compatibility across apparel categories for outfit recommendation.
+- Billion scale pretraining with vision transformers for multitask visual representations.
+- Shop the look: building a large scale visual shopping system at pinterest.
 
 
 ## Facebook:
@@ -21,3 +21,9 @@ I will be starting this exercise of annotating papers/Videos to keep of with the
 ## ML Systems:
 
 https://www.educative.io/courses/grokking-the-machine-learning-interview/g2RyzvN5Yqk
+
+## Object Detection
+
+- Feature Pyramid Network with MaskRCNN
+- Transformer based Object Detection (DETR)
+- Vision Based Transformer (ViT)
