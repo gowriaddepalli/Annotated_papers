@@ -17,8 +17,3 @@ I will be starting this exercise of annotating papers/Videos to keep of with the
 
 - Large scale attribute-object compositions.
 - Groknet: Unified Computer Vision Model Trunk and Embeddings for commerce. 
-
-
-____________________________________________________________________________________________________________________________________
-
-
