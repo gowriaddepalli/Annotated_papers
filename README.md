@@ -16,4 +16,8 @@ I will be starting this exercise of annotating papers/Videos to keep of with the
 ## Facebook:
 
 - Large scale attribute-object compositions.
-- Groknet: Unified Computer Vision Model Trunk and Embeddings for commerce. 
+- Groknet: Unified Computer Vision Model Trunk and Embeddings for commerce.
+
+## ML Systems:
+
+https://www.educative.io/courses/grokking-the-machine-learning-interview/g2RyzvN5Yqk
