@@ -1,4 +1,4 @@
-# Annotated_papers/Videos/Blogs
+# Annotated_papers
 
 I will be starting this exercise of annotating papers/Videos to keep of with the latest industry research of Deep Learning, Computer Vision, and Machine Learning Systems, Search & Ranking, Information Retrieval and Recommendation Systems, Personalization:
 
