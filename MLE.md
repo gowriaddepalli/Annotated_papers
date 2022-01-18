@@ -92,3 +92,5 @@ There are unique technical challenges for this team: building large scale system
 - Hands-on experience on large scale machine learning systems (full ML stack from modelling to deployment at scale.)
 - Hands-on experience with big data technologies (e.g., Hadoop/Spark) and scalable realtime systems that process stream data
 - Nice to have: PhD in Machine Learning or related areas, publication on top ML conferences, Familiarity with information extraction techniques for web-pages and free-texts, Experience working with shopping data is a plus
+
+https://www.pinterestcareers.com/job/12630423/machine-learning-engineer-shopping-content-mining-toronto-ca/?utm_source=linkedin&utm_medium=linkedin-post&utm_campaign=shopping-video-recruiting
